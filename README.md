@@ -45,3 +45,6 @@ License -> https://github.com/itz-harshit/translator//blob/main/LICENSE
 ```
 
 ---
+## Credits
+
+- [Harshit Shrivastav](https://github.com/itz-harshit)
