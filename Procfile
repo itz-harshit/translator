@@ -1,1 +1,1 @@
-streamlit run python -m main 
+streamlit run main.py
