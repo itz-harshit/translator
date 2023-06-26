@@ -13,7 +13,7 @@ This repository contains a simple web application built with Streamlit that tran
 ## Installation
 ```
 git clone https://github.com/itz-harshit/translator.git
-cd language-translation-web-app
+cd translator
 pip install -r requirements.txt
 streamlit run main.py
 ```
@@ -34,3 +34,14 @@ streamlit run main.py
 Contributions are welcome! If you find any issues or want to enhance the application, feel free to open an issue or submit a pull request.
 
 ## License 
+---
+```
+
+Made with Python3
+(C)itz-harshit 
+Copyright permission under MIT License
+License -> https://github.com/itz-harshit/translator//blob/main/LICENSE
+
+```
+
+---
